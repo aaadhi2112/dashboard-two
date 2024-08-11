@@ -1,0 +1,1035 @@
+@media (min-width:320px) {
+    .govcontainer{
+        padding: 20px;
+    }
+    .nav{
+        display: flex;
+        justify-content: space-between;
+        /* border: 1px solid red; */
+    }
+    .navparttwo{
+        display: flex;
+    }
+    .gmoondiv{
+        /* border: 1px solid red; */
+        margin: 10px 5px 0px 5px ;
+    }
+    
+    .gtopbar{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0px 10px;
+        margin-top: 20px;
+        /* border: 1px solid red; */
+    
+    }
+    .gtopbar h3{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .gtopbardate{
+        border: 1px solid rgb(151, 151, 151);
+        padding: 0px 5px;
+        height: 25px;
+        border-radius: 5px;
+        font-size: 13px;
+    }
+    
+    .gbar1{
+        margin-top: 20px;
+        /* border: 1px green solid; */
+        /* display: flex;
+        justify-content: center;
+        align-items: center; */
+    }
+    .gbar1 h5{
+        line-height: 0%;
+        font-weight: 600;
+    }
+    .gbar1comdiv{
+        /* display: flex;
+        justify-content: center;
+        gap: 40px; */
+        width: 100%;
+    }
+    .gbar1com{
+        /* width: 45%; */
+        border-radius: 10px;
+        padding: 15px 0px;
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .gbar1com i {
+        padding: 10px;
+        border-radius: 50px;
+        background-color: #ffffff;
+        margin: 0px 0px 0px 30px;
+    }
+    .tschool{
+        background: #04ffff71;
+    }
+    .tstaff{
+        background: #ff04c948;
+    }
+    
+    .tstudents{
+        background: #c9ff0471;
+    }
+    .tparents{
+        background: #04ff2671;
+    }
+    
+    
+    .gbar2{
+        margin-top: 20px;
+    }
+    .gbar2com1, .gbar2com2, .gbar2com3{
+        border: 1px solid grey;
+        padding: 20px 30px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+    
+    .gbar2comtop{
+        display: flex;
+        justify-content: space-between;
+    }
+    .gbar2chart{
+        display: flex;
+        justify-content: center;
+    }
+    .gbar2com3bottom{
+        display: flex;
+        justify-content: space-around;
+        margin-top: 40px;
+    }
+    .gbar2com3bottom div{
+        border: 1px solid black;
+        width: 30%;
+        text-align: center;
+        padding: 15px 0px 0px 0px;
+        border-radius: 10px;
+    }
+    .gbar2com3bottom h4{
+        font-size: 15px;
+        line-height: 0;
+    }
+    .gbar2com3bottom p{
+        font-size: 10px;
+    }
+    .gbar2com3bottom h5{
+        font-size: 12px;
+        line-height: 0;
+    }
+    
+    .gbar3{
+        margin-top: 20px;
+    }
+    .gbar3com1, .gbar3com2{
+        border: 1px solid grey;
+        padding: 20px 30px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+    .gbar3comtop{
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 20px;
+    }
+    .gbar3chart{
+        display: flex;
+        justify-content: center;
+    }
+    .gbar3comtop input{
+        font-size: 13px;
+    }
+    .gbar3com1bottom1 h5,.gbar3com1bottom2 h5{
+        font-size: 15px;
+        margin-top: 10px;
+    }
+    .gbar3com1bottom1 p,.gbar3com1bottom2 p{
+        font-size: 12px;
+    }
+    .gbar3com2profile{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .gbar3com2profile p{
+        margin-top: 14px;
+    }
+    .gbar3com2profileleft{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+    .gbar3details{
+        border: 1px solid blue;
+        border-radius: 10px;
+        color: blue;
+        text-align: center;
+        cursor: pointer;
+    }
+    
+    
+    
+    .gbar4{
+        margin-top: 20px;
+    }
+    
+    .gbar4com1, .gbar4com2{
+        border: 1px solid grey;
+        padding: 20px 30px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+    .gbar4com1top{
+        display: flex;
+        justify-content: space-between;
+    }
+    .gbar4com1bottom{
+        display: flex;
+        justify-content: center;
+    }
+    .gbar4com2top{
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 50px;
+    }
+}
+
+@media (min-width:370px) {
+    .govcontainer{
+        padding: 20px;
+    }
+    .nav{
+        display: flex;
+        justify-content: space-between;
+        /* border: 1px solid red; */
+    }
+    .navparttwo{
+        display: flex;
+    }
+    .gmoondiv{
+        /* border: 1px solid red; */
+        margin: 10px 5px 0px 5px ;
+    }
+    
+    .gtopbar{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0px 10px;
+        margin-top: 20px;
+        /* border: 1px solid red; */
+    
+    }
+    .gtopbar h3{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .gtopbardate{
+        border: 1px solid rgb(151, 151, 151);
+        padding: 0px 5px;
+        height: 25px;
+        border-radius: 5px;
+        font-size: 13px;
+    }
+    
+    .gbar1{
+        margin-top: 20px;
+        /* border: 1px green solid; */
+        /* display: flex;
+        justify-content: center;
+        align-items: center; */
+    }
+    .gbar1 h5{
+        line-height: 0%;
+        font-weight: 600;
+    }
+    .gbar1comdiv{
+        /* display: flex;
+        justify-content: center;
+        gap: 40px; */
+        width: 100%;
+    }
+    .gbar1com{
+        /* width: 45%; */
+        border-radius: 10px;
+        padding: 15px 0px;
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .gbar1com i {
+        padding: 10px;
+        border-radius: 50px;
+        background-color: #ffffff;
+        margin: 0px 0px 0px 30px;
+    }
+    .tschool{
+        background: #04ffff71;
+    }
+    .tstaff{
+        background: #ff04c948;
+    }
+    
+    .tstudents{
+        background: #c9ff0471;
+    }
+    .tparents{
+        background: #04ff2671;
+    }
+    
+    
+    .gbar2{
+        margin-top: 20px;
+    }
+    .gbar2com1, .gbar2com2, .gbar2com3{
+        border: 1px solid grey;
+        padding: 20px 30px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+    
+    .gbar2comtop{
+        display: flex;
+        justify-content: space-between;
+    }
+    .gbar2chart{
+        display: flex;
+        justify-content: center;
+    }
+    .gbar2com3bottom{
+        display: flex;
+        justify-content: space-around;
+        margin-top: 40px;
+    }
+    .gbar2com3bottom div{
+        border: 1px solid black;
+        width: 30%;
+        text-align: center;
+        padding: 15px 0px 0px 0px;
+        border-radius: 10px;
+    }
+    .gbar2com3bottom h4{
+        font-size: 15px;
+        line-height: 0;
+    }
+    .gbar2com3bottom p{
+        font-size: 10px;
+    }
+    .gbar2com3bottom h5{
+        font-size: 12px;
+        line-height: 0;
+    }
+    
+    .gbar3{
+        margin-top: 20px;
+    }
+    .gbar3com1, .gbar3com2{
+        border: 1px solid grey;
+        padding: 20px 30px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+    .gbar3comtop{
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 20px;
+    }
+    .gbar3chart{
+        display: flex;
+        justify-content: center;
+    }
+    .gbar3comtop input{
+        font-size: 13px;
+    }
+    .gbar3com1bottom1 h5,.gbar3com1bottom2 h5{
+        font-size: 15px;
+        margin-top: 10px;
+    }
+    .gbar3com1bottom1 p,.gbar3com1bottom2 p{
+        font-size: 12px;
+    }
+    .gbar3com2profile{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .gbar3com2profile p{
+        margin-top: 14px;
+    }
+    .gbar3com2profileleft{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+    .gbar3details{
+        border: 1px solid blue;
+        border-radius: 10px;
+        color: blue;
+        text-align: center;
+        cursor: pointer;
+    }
+    
+    
+    
+    .gbar4{
+        margin-top: 20px;
+    }
+    
+    .gbar4com1, .gbar4com2{
+        border: 1px solid grey;
+        padding: 20px 30px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+    .gbar4com1top{
+        display: flex;
+        justify-content: space-between;
+    }
+    .gbar4com1bottom{
+        display: flex;
+        justify-content: center;
+    }
+    .gbar4com2top{
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 50px;
+    }
+}
+
+
+@media (min-width:768px) {
+    .govcontainer{
+        padding: 20px;
+    }
+    .nav{
+        display: flex;
+        justify-content: space-between;
+    }
+    .navparttwo{
+        display: flex;
+    }
+    .gmoondiv{
+        margin: 10px 5px 0px 5px ;
+    }
+    
+    .gtopbar{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0px 10px;
+        margin-top: 20px;
+    
+    }
+    .gtopbar h3{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .gtopbardate{
+        border: 1px solid rgb(151, 151, 151);
+        padding: 0px 5px;
+        height: 25px;
+        border-radius: 5px;
+        font-size: 13px;
+    }
+    
+    .gbar1{
+        margin-top: 20px;
+    }
+    .gbar1 h5{
+        line-height: 0%;
+        font-weight: 600;
+    }
+    .gbar1comdiv{
+        width: 100%;
+    }
+    .gbar1com{
+        border-radius: 10px;
+        padding: 15px 0px;
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .gbar1com i {
+        padding: 10px;
+        border-radius: 50px;
+        background-color: #ffffff;
+        margin: 0px 0px 0px 30px;
+    }
+    .tschool{
+        background: #04ffff71;
+    }
+    .tstaff{
+        background: #ff04c948;
+    }
+    
+    .tstudents{
+        background: #c9ff0471;
+    }
+    .tparents{
+        background: #04ff2671;
+    }
+    
+    
+    .gbar2{
+        margin-top: 20px;
+    }
+    .gbar2com1, .gbar2com2, .gbar2com3{
+        border: 1px solid grey;
+        padding: 20px 30px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+    
+    .gbar2comtop{
+        display: flex;
+        justify-content: space-between;
+    }
+    .gbar2chart{
+        display: flex;
+        justify-content: center;
+    }
+    .gbar2com3bottom{
+        display: flex;
+        justify-content: space-around;
+        margin-top: 40px;
+    }
+    .gbar2com3bottom div{
+        border: 1px solid black;
+        width: 30%;
+        text-align: center;
+        padding: 15px 0px 0px 0px;
+        border-radius: 10px;
+    }
+    .gbar2com3bottom h4{
+        font-size: 15px;
+        line-height: 0;
+    }
+    .gbar2com3bottom p{
+        font-size: 10px;
+    }
+    .gbar2com3bottom h5{
+        font-size: 12px;
+        line-height: 0;
+    }
+    
+    .gbar3{
+        margin-top: 20px;
+    }
+    .gbar3com1, .gbar3com2{
+        border: 1px solid grey;
+        padding: 20px 30px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+    .gbar3comtop{
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 20px;
+    }
+    .gbar3chart{
+        display: flex;
+        justify-content: center;
+    }
+    .gbar3comtop input{
+        font-size: 13px;
+    }
+    .gbar3com1bottom1 h5,.gbar3com1bottom2 h5{
+        font-size: 15px;
+        margin-top: 10px;
+    }
+    .gbar3com1bottom1 p,.gbar3com1bottom2 p{
+        font-size: 12px;
+    }
+    .gbar3com2profile{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .gbar3com2profile p{
+        margin-top: 14px;
+    }
+    .gbar3com2profileleft{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+    .gbar3details{
+        border: 1px solid blue;
+        border-radius: 10px;
+        color: blue;
+        text-align: center;
+        cursor: pointer;
+    }
+    
+    
+    
+    .gbar4{
+        margin-top: 20px;
+    }
+    
+    .gbar4com1, .gbar4com2{
+        border: 1px solid grey;
+        padding: 20px 30px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+    .gbar4com1top{
+        display: flex;
+        justify-content: space-between;
+    }
+    .gbar4com1bottom{
+        display: flex;
+        justify-content: center;
+    }
+    .gbar4com2top{
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 50px;
+    }
+}
+
+@media (min-width:1024px) {
+    .govcontainer{
+        padding: 20px;
+    }
+    .nav{
+        display: flex;
+        justify-content: space-between;
+    }
+    .navparttwo{
+        display: flex;
+    }
+    .gmoondiv{
+        margin: 10px 5px 0px 5px ;
+    }
+    
+    .gtopbar{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0px 10px;
+        margin-top: 20px;
+    
+    }
+    .gtopbar h3{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .gtopbardate{
+        border: 1px solid rgb(151, 151, 151);
+        padding: 0px 5px;
+        height: 25px;
+        border-radius: 5px;
+        font-size: 13px;
+    }
+    
+    .gbar1{
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .gbar1 h5{
+        line-height: 0%;
+        font-weight: 600;
+    }
+    .gbar1comdiv{
+        display: flex;
+        justify-content: center;
+        gap: 60px;
+        width: 50%;
+    }
+    .gbar1com{
+        width: 45%;
+        border-radius: 10px;
+        padding: 15px 10px;
+        display: flex;
+        align-items: center;
+    }
+    .gbar1com i {
+        padding: 10px;
+        border-radius: 50px;
+        background-color: #ffffff;
+        margin: 0px 0px 0px 30px;
+    }
+    .tschool{
+        background: #04ffff71;
+    }
+    .tstaff{
+        background: #ff04c948;
+    }
+    
+    .tstudents{
+        background: #c9ff0471;
+    }
+    .tparents{
+        background: #04ff2671;
+    }
+    
+    
+    .gbar2{
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+    .gbar2com1, .gbar2com2, .gbar2com3{
+        border: 1px solid grey;
+        padding: 20px 30px;
+        border-radius: 10px;
+        width: 32%;
+    }
+    
+    .gbar2comtop{
+        display: flex;
+        justify-content: space-between;
+    }
+    .gbar2chart{
+        display: flex;
+        justify-content: center;
+    }
+    .gbar2com3bottom{
+        display: flex;
+        justify-content: space-around;
+        margin-top: 40px;
+    }
+    .gbar2com3bottom div{
+        border: 1px solid black;
+        width: 30%;
+        text-align: center;
+        padding: 15px 0px 0px 0px;
+        border-radius: 10px;
+    }
+    .gbar2com3bottom h4{
+        font-size: 15px;
+        line-height: 0;
+    }
+    .gbar2com3bottom p{
+        font-size: 10px;
+    }
+    .gbar2com3bottom h5{
+        font-size: 12px;
+        line-height: 0;
+    }
+    
+    .gbar3{
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+    .gbar3com1, .gbar3com2{
+        border: 1px solid grey;
+        padding: 20px 30px;
+        border-radius: 10px;
+        width: 50%;
+    }
+    .gbar3comtop{
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 20px;
+    }
+    .gbar3chart{
+        display: flex;
+        justify-content: center;
+    }
+    .gbar3comtop input{
+        font-size: 13px;
+    }
+    .gbar3com1bottom{
+        display: flex;
+        justify-content: center;
+        gap: 10%;
+    }
+    .gbar3com1bottom1 h5,.gbar3com1bottom2 h5{
+        font-size: 15px;
+        margin-top: 10px;
+    }
+    .gbar3com1bottom1 p,.gbar3com1bottom2 p{
+        font-size: 12px;
+    }
+    .gbar3com2profile{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .gbar3com2profile p{
+        margin-top: 14px;
+    }
+    .gbar3com2profileleft{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+    .gbar3details{
+        border: 1px solid blue;
+        border-radius: 10px;
+        color: blue;
+        text-align: center;
+        cursor: pointer;
+    }
+    
+    
+    
+    .gbar4{
+        margin-top: 20px;
+        display: flex;
+        gap: 20px;
+    }
+    
+    .gbar4com1, .gbar4com2{
+        border: 1px solid grey;
+        padding: 20px 30px;
+        border-radius: 10px;
+    }
+    .gbar4com1{
+        width: 40%;
+    }
+    .gbar4com1top{
+        display: flex;
+        justify-content: space-between;
+    }
+    .gbar4com1bottom{
+        display: flex;
+        justify-content: center;
+    }
+    .gbar4com2{
+        width: 60%;
+    }
+    .gbar4com2top{
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 50px;
+    }
+}
+
+
+@media (min-width:1440px) {
+    .govcontainer{
+        padding: 20px;
+    }
+    .nav{
+        display: flex;
+        justify-content: space-between;
+    }
+    .navparttwo{
+        display: flex;
+    }
+    .gmoondiv{
+        margin: 10px 5px 0px 5px ;
+    }
+    
+    .gtopbar{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0px 10px;
+        margin-top: 20px;
+    
+    }
+    .gtopbar h3{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .gtopbardate{
+        border: 1px solid rgb(151, 151, 151);
+        padding: 0px 5px;
+        height: 25px;
+        border-radius: 5px;
+        font-size: 13px;
+    }
+    
+    .gbar1{
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .gbar1 h5{
+        line-height: 0%;
+        font-weight: 600;
+    }
+    .gbar1comdiv{
+        display: flex;
+        justify-content: center;
+        gap: 60px;
+        width: 50%;
+    }
+    .gbar1com{
+        width: 45%;
+        border-radius: 10px;
+        padding: 15px 10px;
+        display: flex;
+        align-items: center;
+        margin-bottom: 0px;
+    }
+    .gbar1com i {
+        padding: 10px;
+        border-radius: 50px;
+        background-color: #ffffff;
+        margin: 0px 0px 0px 30px;
+    }
+    .tschool{
+        background: #04ffff71;
+    }
+    .tstaff{
+        background: #ff04c948;
+    }
+    
+    .tstudents{
+        background: #c9ff0471;
+    }
+    .tparents{
+        background: #04ff2671;
+    }
+    
+    
+    .gbar2{
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+    .gbar2com1, .gbar2com2, .gbar2com3{
+        border: 1px solid grey;
+        padding: 20px 30px;
+        border-radius: 10px;
+        width: 32%;
+        margin-bottom: 0px;
+    }
+    
+    .gbar2comtop{
+        display: flex;
+        justify-content: space-between;
+    }
+    .gbar2chart{
+        display: flex;
+        justify-content: center;
+    }
+    .gbar2com3bottom{
+        display: flex;
+        justify-content: space-around;
+        margin-top: 40px;
+    }
+    .gbar2com3bottom div{
+        border: 1px solid black;
+        width: 30%;
+        text-align: center;
+        padding: 15px 0px 0px 0px;
+        border-radius: 10px;
+    }
+    .gbar2com3bottom h4{
+        font-size: 15px;
+        line-height: 0;
+    }
+    .gbar2com3bottom p{
+        font-size: 10px;
+    }
+    .gbar2com3bottom h5{
+        font-size: 12px;
+        line-height: 0;
+    }
+    
+    .gbar3{
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+    .gbar3com1, .gbar3com2{
+        border: 1px solid grey;
+        padding: 20px 30px;
+        border-radius: 10px;
+        width: 50%;
+        margin-bottom: 0px;
+    }
+    .gbar3comtop{
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 20px;
+    }
+    .gbar3chart{
+        display: flex;
+        justify-content: center;
+    }
+    .gbar3comtop input{
+        font-size: 13px;
+    }
+    .gbar3com1bottom{
+        display: flex;
+        justify-content: center;
+        gap: 10%;
+    }
+    
+    .gbar3com1bottom1 h5,.gbar3com1bottom2 h5{
+        font-size: 15px;
+        margin-top: 10px;
+    }
+    .gbar3com1bottom1 p,.gbar3com1bottom2 p{
+        font-size: 12px;
+    }
+    .gbar3com2profile{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .gbar3com2profile p{
+        margin-top: 14px;
+    }
+    .gbar3com2profileleft{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+    .gbar3details{
+        border: 1px solid blue;
+        border-radius: 10px;
+        color: blue;
+        text-align: center;
+        cursor: pointer;
+    }
+    
+    
+    
+    .gbar4{
+        margin-top: 20px;
+        display: flex;
+        gap: 20px;
+    }
+    
+    .gbar4com1, .gbar4com2{
+        border: 1px solid grey;
+        padding: 20px 30px;
+        border-radius: 10px;
+    }
+    .gbar4com1{
+        width: 40%;
+    }
+    .gbar4com1top{
+        display: flex;
+        justify-content: space-between;
+    }
+    .gbar4com1bottom{
+        display: flex;
+        justify-content: center;
+    }
+    .gbar4com2{
+        width: 60%;
+    }
+    .gbar4com2top{
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 50px;
+    }
+}
